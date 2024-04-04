@@ -36,3 +36,9 @@ N
 2024/202404/20240402/README.md,e/7/e784d6e354dbb4a0297b32b5114f392a22f63468
 N
 2024/202404/20240403/README.md,5/0/5045e93cbdd0050a2d13cceed6052d7d7f1ef015
+N
+2024/202404/20240404/README.md,a/b/abae3e530a7a36fb7178676842446c41b3571101
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
